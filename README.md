@@ -1,1 +1,1 @@
-# Computaci-n_f-sica
+# Computación_física
